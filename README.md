@@ -2,7 +2,7 @@
 ## (Currently finalizing the research paper so the code will be uploaded soon)
 
 ## Project Description
-LLMPred is a research thesis that utilizes fine-tuned embeddings from large language models (LLMs) to predict the frequency of drug side effects. By leveraging advanced embedding techniques, the study aims to improve prediction accuracy in identifying drug-related side effects, which could range from mild symptoms to severe health complications. This project highlights the importance of LLM embeddings in enhancing drug safety and aiding clinical decision-making.
+LLMPred is a research thesis that utilizes fine-tuned embeddings from large language models (LLMs) to predict the frequency of drug side effects. By leveraging advanced embedding techniques, the study aims to improve prediction accuracy of the frequency of drug-related side effects, which could range from mild symptoms to severe health complications. This project highlights the importance of LLM embeddings in enhancing drug safety and aiding clinical decision-making.
 
 
 ## Research Objective
